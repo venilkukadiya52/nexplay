@@ -45,17 +45,17 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:99;opa
 @media(prefers-reduced-motion:reduce){.nexus-webgl{display:none}.game-card{transition:none}.hero-art:before{opacity:.8}}
 
 /* Original geometric editorial covers, one artwork per catalogue entry. */
-.art-hex{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("/assets/art/hex.svg")!important;background-position:center;background-size:cover}
-.art-blocks{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("/assets/art/blocks.svg")!important;background-position:center;background-size:cover}
-.art-alchemy{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("/assets/art/alchemy.svg")!important;background-position:center;background-size:cover}
-.art-cells{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("/assets/art/cells.svg")!important;background-position:center;background-size:cover}
-.art-snake{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("/assets/art/snake.svg")!important;background-position:center;background-size:cover}
-.art-paint{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("/assets/art/paint.svg")!important;background-position:center;background-size:cover}
-.art-tetris{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("/assets/art/tetris.svg")!important;background-position:center;background-size:cover}
-.art-tank{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("/assets/art/tank.svg")!important;background-position:center;background-size:cover}
-.art-sand{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("/assets/art/sand.svg")!important;background-position:center;background-size:cover}
-.art-orbit{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("/assets/art/orbit.svg")!important;background-position:center;background-size:cover}
-.art-chess{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("/assets/art/chess.svg")!important;background-position:center;background-size:cover}
+.art-hex{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("art/hex.svg")!important;background-position:center;background-size:cover}
+.art-blocks{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("art/blocks.svg")!important;background-position:center;background-size:cover}
+.art-alchemy{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("art/alchemy.svg")!important;background-position:center;background-size:cover}
+.art-cells{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("art/cells.svg")!important;background-position:center;background-size:cover}
+.art-snake{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("art/snake.svg")!important;background-position:center;background-size:cover}
+.art-paint{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("art/paint.svg")!important;background-position:center;background-size:cover}
+.art-tetris{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("art/tetris.svg")!important;background-position:center;background-size:cover}
+.art-tank{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("art/tank.svg")!important;background-position:center;background-size:cover}
+.art-sand{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("art/sand.svg")!important;background-position:center;background-size:cover}
+.art-orbit{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("art/orbit.svg")!important;background-position:center;background-size:cover}
+.art-chess{background-image:linear-gradient(0deg,#060c1299,transparent 70%),url("art/chess.svg")!important;background-position:center;background-size:cover}
 .card-art .art-shape,.detail-art .art-shape,.card-art .art-grid,.detail-art .art-grid{display:none!important}.card-art:hover{background-size:105%!important}.detail-art{background-size:cover!important;background-position:center}/* Verified per-game screenshot covers, with the original generative cover as fallback. */
 .game-cover,.detail-cover{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;display:block;z-index:1;transition:transform .6s cubic-bezier(.2,.7,.2,1),filter .4s;filter:saturate(1.08)}
 .card-art:has(.game-cover){background:#0d111b!important}

@@ -51,3 +51,16 @@ if 'username.github.io' in (root/'index.html').read_text():errors.append('placeh
 print('Deep link errors:',len(errors))
 for e in errors[:60]:print('ERROR',e)
 sys.exit(bool(errors))
+
+# Audit CSS asset URLs for GitHub Pages subdirectory deployment.
+from pathlib import Path as _Path
+import re as _re
+for _css in (_Path(__file__).parent / 'assets').glob('*.css'):
+    _body = _css.read_text(encoding='utf-8')
+    for _url in _re.findall(r'url\([\"\']?([^\)\"\']+)', _body):
+        if _url.startswith('/assets/'):
+            raise SystemExit(f'GitHub Pages asset path invalid: {_css.name} -> {_url}')
+        if _url.startswith(('data:', 'http:', 'https:', '//', '#', '/')):
+            continue
+        if not (_css.parent / _url.split('?', 1)[0]).exists():
+            raise SystemExit(f'CSS referenced file missing: {_css.name} -> {_url}')
