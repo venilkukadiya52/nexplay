@@ -1,0 +1,48 @@
+name: Deploy NEXPLAY to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build pages with actual GitHub Pages URL
+        env:
+          GH_REPO: ${{ github.event.repository.name }}
+          GH_OWNER: ${{ github.repository_owner }}
+          CUSTOM_SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          python - <<'PYCODE'
+          import os, subprocess
+          repo=os.environ['GH_REPO']; owner=os.environ['GH_OWNER'].lower()
+          base='' if repo.lower()==owner+'.github.io' else '/'+repo
+          url=os.environ.get('CUSTOM_SITE_URL') or 'https://'+owner+'.github.io'+base
+          env=dict(os.environ,SITE_URL=url,BASE_PATH='' if os.environ.get('CUSTOM_SITE_URL') else base)
+          subprocess.run(['python','build.py'],check=True,env=env)
+          PYCODE
+          touch .nojekyll
+          python check_release.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
