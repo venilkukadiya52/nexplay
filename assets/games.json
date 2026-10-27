@@ -50,7 +50,7 @@
     "art": "cells",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/grand-theft-auto-v.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -76,7 +76,7 @@
     "art": "tetris",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/grand-theft-auto-iii.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -102,7 +102,7 @@
     "art": "tetris",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/road-rash.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -185,7 +185,7 @@
     "art": "snake",
     "status": "files",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/grand-theft-auto-vice-city.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -274,7 +274,7 @@
     "art": "train",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/counter-strike-1-6.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -300,7 +300,7 @@
     "art": "tank",
     "status": "instant",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/quake-iii-arena-q3js.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -326,7 +326,7 @@
     "art": "snake",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/tekken-dark-resurrection-web-online.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -379,7 +379,7 @@
     "art": "snake",
     "status": "files",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/command-conquer-generals-zero-hour.webp",
     "categories": [
       "strategy",
       "multiplayer"
@@ -406,7 +406,7 @@
     "art": "blocks",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/command-conquer-red-alert-2.webp",
     "categories": [
       "strategy",
       "multiplayer"
@@ -550,7 +550,7 @@
     "art": "hex",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/all-22-pro-pok-mon-football.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -576,7 +576,7 @@
     "art": "snake",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/all-22-slugger-pok-mon-baseball.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -804,7 +804,7 @@
     "art": "cells",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/boondocks-brawl.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -857,7 +857,7 @@
     "art": "chess",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/budokai-t3.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -909,7 +909,7 @@
     "art": "tetris",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/call-of-duty-black-ops-zombies.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -1166,7 +1166,7 @@
     "art": "alchemy",
     "status": "instant",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/counter-strike-source-bunnyhop.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -1192,7 +1192,7 @@
     "art": "chess",
     "status": "instant",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/counter-strike-source-surf.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -1218,7 +1218,7 @@
     "art": "hex",
     "status": "instant",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/crash-bash-online.webp",
     "categories": [
       "multiplayer"
     ]
@@ -1244,7 +1244,7 @@
     "art": "cells",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/crash-bash-online-additional-listing.webp",
     "categories": [
       "multiplayer"
     ]
@@ -1321,7 +1321,7 @@
     "art": "snake",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/d2-survivors.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -1347,7 +1347,7 @@
     "art": "snake",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/d2o.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -1404,7 +1404,7 @@
     "art": "blocks",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/def-jam-fight-for-ny.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -1430,7 +1430,7 @@
     "art": "blocks",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/derby.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -1569,7 +1569,7 @@
     "art": "orbit",
     "status": "instant",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/doom-multiplayer-silent-space-marine.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -1626,7 +1626,7 @@
     "art": "orbit",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/downhill-domination.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -1710,7 +1710,7 @@
     "art": "alchemy",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/dragon-ball-z-budokai-3.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -1736,7 +1736,7 @@
     "art": "tetris",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/dragon-ball-z-budokai-tenkaichi-2.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -2028,7 +2028,7 @@
     "art": "cells",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/fifa-10-online.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -2158,7 +2158,7 @@
     "art": "chess",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/fifa-street.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -2184,7 +2184,7 @@
     "art": "blocks",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/fighterz-tactics.webp",
     "categories": [
       "strategy",
       "multiplayer"
@@ -2294,7 +2294,7 @@
     "art": "tetris",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/friday-fighters.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -2460,7 +2460,7 @@
     "art": "chess",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/grandv-v2.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -2512,7 +2512,7 @@
     "art": "orbit",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/gta2-in-your-browser.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -2564,7 +2564,7 @@
     "art": "blocks",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/half-life-pixelsuft.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -2589,7 +2589,7 @@
     "art": "train",
     "status": "demo",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/half-life-and-counter-strike-1-6-webxash.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -2616,7 +2616,7 @@
     "art": "alchemy",
     "status": "files",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/halo-combat-evolved.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -2642,7 +2642,7 @@
     "art": "chess",
     "status": "files",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/halo-combat-evolved-mobile.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -2784,7 +2784,7 @@
     "art": "tank",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/karen-warfare.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -2924,7 +2924,7 @@
     "art": "hex",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/lego-island.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -3090,7 +3090,7 @@
     "art": "tank",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/marvel-vs-capcom-2.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -3116,7 +3116,7 @@
     "art": "train",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/matt-portner-s-pro-skimboarder.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -3173,7 +3173,7 @@
     "art": "chess",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/midnight-club-3-dub-edition.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -3198,7 +3198,7 @@
     "art": "tank",
     "status": "instant",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/minecraft-1-8-8-eaglercraftx.webp",
     "categories": [
       "creative",
       "multiplayer"
@@ -3250,7 +3250,7 @@
     "art": "orbit",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/moon-black-ops-zombies.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -3328,7 +3328,7 @@
     "art": "tetris",
     "status": "instant",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/nacht-der-untoten.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -3354,7 +3354,7 @@
     "art": "alchemy",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/naruto-shippuden-ultimate-ninja-5.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -3380,7 +3380,7 @@
     "art": "orbit",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/naruto-shippuden-ultimate-ninja-impact.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -3432,7 +3432,7 @@
     "art": "train",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/nba-street-v3.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -3484,7 +3484,7 @@
     "art": "train",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/need-for-speed-most-wanted-web-port.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -3509,7 +3509,7 @@
     "art": "cells",
     "status": "demo",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/netquake-io.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -3644,7 +3644,7 @@
     "art": "cells",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/nothalo.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -3754,7 +3754,7 @@
     "art": "alchemy",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/pes-2011-web-port.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -3832,7 +3832,7 @@
     "art": "tetris",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/pixel-martin-no-filter-fighters.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -3972,7 +3972,7 @@
     "art": "snake",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/pro-evolution-soccer-6.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -3999,7 +3999,7 @@
     "art": "blocks",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/quake-ii-q2-pieter-com.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -4025,7 +4025,7 @@
     "art": "train",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/quake-iii-arena-q3-pieter-com.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -4052,7 +4052,7 @@
     "art": "alchemy",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/quakeworld-q1-pieter-com.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -4210,7 +4210,7 @@
     "art": "chess",
     "status": "instant",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/return-to-castle-wolfenstein.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -4236,7 +4236,7 @@
     "art": "blocks",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/riposte-frontline.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -4262,7 +4262,7 @@
     "art": "cells",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/roadster-rally.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -4288,7 +4288,7 @@
     "art": "orbit",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/rugby-08.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -4314,7 +4314,7 @@
     "art": "hex",
     "status": "instant",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/runescape-classic.webp",
     "categories": [
       "strategy",
       "multiplayer"
@@ -4340,7 +4340,7 @@
     "art": "orbit",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/silent-hill-origins.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -4391,7 +4391,7 @@
     "art": "tank",
     "status": "files",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/skate-3-fan-browser-game.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -4527,7 +4527,7 @@
     "art": "orbit",
     "status": "files",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/star-wars-jedi-knight-jedi-academy.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -4637,7 +4637,7 @@
     "art": "tetris",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/super-mario-64-multiplayer.webp",
     "categories": [
       "multiplayer"
     ]
@@ -4693,7 +4693,7 @@
     "art": "hex",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/super-mario-kart-remake.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -4718,7 +4718,7 @@
     "art": "cells",
     "status": "instant",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/super-mario-zombies.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -4744,7 +4744,7 @@
     "art": "train",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/super-monkey-ball.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -4798,7 +4798,7 @@
     "art": "tank",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/super-smash-bros-in-browser.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -4912,7 +4912,7 @@
     "art": "alchemy",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/taipei-gta.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -5021,7 +5021,7 @@
     "art": "tetris",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/teleoperator.webp",
     "categories": [
       "strategy",
       "multiplayer"
@@ -5173,7 +5173,7 @@
     "art": "snake",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/the-simpsons-hit-run.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -5199,7 +5199,7 @@
     "art": "blocks",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/the-warriors.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -5425,7 +5425,7 @@
     "art": "blocks",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/urban-terror.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -5451,7 +5451,7 @@
     "art": "tank",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/virtua-tennis-2.webp",
     "categories": [
       "arcade",
       "multiplayer"
@@ -5477,7 +5477,7 @@
     "art": "orbit",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/voxel-warfare.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -5503,7 +5503,7 @@
     "art": "train",
     "status": "files",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/wadcmd-doom-in-browser.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -5608,7 +5608,7 @@
     "art": "tank",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/wwe-smackdown-vs-raw-2011.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -5634,7 +5634,7 @@
     "art": "cells",
     "status": "unverified",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/wwe-smackdown-vs-raw-2011-alternative-listing.webp",
     "categories": [
       "action",
       "multiplayer"
@@ -5660,7 +5660,7 @@
     "art": "orbit",
     "status": "files",
     "source": "BitRunLog visible catalogue 2026-10-26",
-    "cover": null,
+    "cover": "/assets/covers/zelda-ii-the-adventure-of-link-z2rs.webp",
     "categories": [
       "arcade",
       "multiplayer"
